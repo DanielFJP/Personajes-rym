@@ -1,0 +1,41 @@
+.personaje{
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    position: relative;
+    left: 40%
+}
+
+.personaje{
+   background-color: black;
+    top: 5rem;
+   
+    
+}
+
+.Nombre{
+    font-family:fantasy;
+    font-size: 200%;
+    color: rgb(248, 248, 248);
+
+}
+
+    
+
+h2{
+    font-family:monospace;
+    font-weight:bold;
+    font-size: 160%;
+    color: rgb(255, 255, 255);
+}
+
+ul{
+font-family: monospace;
+color: rgb(255, 255, 255);
+margin: 0;
+padding: 0;
+
+}
+
+
+
